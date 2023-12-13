@@ -1,11 +1,12 @@
 .listing {
-    background: black;
+    background: rgba(171, 171, 219, 0.301);
     border-radius: 30px;
     padding-bottom: 30px;
   }
   .listing-heading {
-    color: black;
+    color: rgb(98, 98, 223);
     padding: 10px 20px 0 20px;
+    font-size: 2rem;
   }
   .listing-photo {
     height: 250px;
